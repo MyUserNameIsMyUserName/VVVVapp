@@ -30,7 +30,15 @@
     data: () => ({
       items: [
         { title: 'Home' , href:'/'},
-        { title: 'About' , href:'/about'}
+        { title: 'About' , href:'/about'},
+        { title: 'Discord' , href:'/discord'},
+        { title: 'Steam' , href:'/steam'},
+        { title: 'System Bar' , href:'/system-bar'},
+        { title: 'Sidenav' , href:'/sidenav'},
+        { title: 'Inbox' , href:'/inbox'},
+        { title: 'Ext.Toolbar' , href:'/extended-toolbar'},
+        { title: 'Constrained' , href:'/constrained'},
+        { title: 'ThreeColumn' , href:'/three-column'}
       ],
     }),
   }
